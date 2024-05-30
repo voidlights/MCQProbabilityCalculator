@@ -1,0 +1,4 @@
+1. open this directory in CMD
+2. run "auto-py-to-exe"
+3. try one-file mode
+4. if one-file mode doesn't work do one-directory mode
